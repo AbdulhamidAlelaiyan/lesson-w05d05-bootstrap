@@ -74,6 +74,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 
 </br>
 
+## Questions
+
+- What's the difference between a framework and a library?
+
+
 ## CSS Frameworks
 A framework is a standardized set of **concepts, practices and criteria** for dealing with a common type of problem.
 
@@ -403,8 +408,6 @@ Bootstrapify (or [Foundation](http://foundation.zurb.com)-ify or [Materialize](h
 ​<br>
 ​
 ## Questions
-
-- What's the difference between a framework and a library?
 
 - Give an example of a situation in which you might want to use Bootstrap (or any other Framework/Library), versus one in which you might not.
 
