@@ -424,3 +424,4 @@ Bootstrapify (or [Foundation](http://foundation.zurb.com)-ify or [Materialize](h
 
 - [Block Element Modifier methodology](http://getbem.com/introduction/)
 - [Hipster Ipsum](http://hipsum.co/) - Dummy placeholder "hipster" text
+- [Semantic Class Names](https://css-tricks.com/semantic-class-names/)
