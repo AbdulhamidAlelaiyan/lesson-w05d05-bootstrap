@@ -373,6 +373,11 @@ Some examples:
 - [Modals](http://getbootstrap.com/javascript/#modals)
 - [Carousels](http://getbootstrap.com/javascript/#carousel)
 
+## Question
+
+- Give an example of a situation in which you might want to use Bootstrap (or any other Framework/Library), versus one in which you might not.
+
+</br>
 
 ## React-Bootstrap
 React-Bootstrap is a complete re-implementation of the Bootstrap components using React.
@@ -380,6 +385,7 @@ React-Bootstrap is a complete re-implementation of the Bootstrap components usin
 ### Installation
 
 [How to use Bootstrap with React](https://www.techomoro.com/how-to-use-bootstrap-with-react/)
+
 
 ## Closing Thoughts
 
@@ -404,12 +410,6 @@ Be aware that critical users of the web know what bootstrap looks like; it’s a
 ## Homework
 
 Bootstrapify (or [Foundation](http://foundation.zurb.com)-ify or [Materialize](http://materializecss.com)-ify or [Picnic](http://picniccss.com)-ify or [Pure](http://purecss.io/)-ify or…) something that you built earlier in the course. 
-
-​<br>
-​
-## Questions
-
-- Give an example of a situation in which you might want to use Bootstrap (or any other Framework/Library), versus one in which you might not.
 
 ​<br>
 
